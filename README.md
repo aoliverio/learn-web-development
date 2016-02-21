@@ -1,2 +1,2 @@
-# learning-web-development
-The code repository related to " web development " of my blog
+# learning-web-programming
+Code examples for web programming
